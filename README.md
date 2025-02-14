@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi There, I'm Dhama, a college student passionate about coding and learning new technologies! I'm currently focusing on improving my skills in JavaScript, with a particular interest in React and Next.js.<br><br>🚀 I'm working on personal projects to build solid foundation and deepen my understanding of full-stack application development. I love experimenting with new libraries and frameworks to stay up-to-date with the latest trends in the JavaScript ecosystem.<br><br>🌱 I'm excited to continue learning and growing as a developer. Feel free to check out my projects, open an issue, or reach out if you have advice or collaboration opportunities!
+👋 Hi There, I'm Dhama, a college student passionate about coding and learning technologies! I'm currently focusing on improving my skills in JavaScript, with a particular interest in React and Next.js.<br><br>🚀 I'm working on personal projects to build solid foundation and deepen my understanding of full-stack application development. I love experimenting with new libraries and frameworks to stay up-to-date with the latest trends in the JavaScript ecosystem.<br><br>🌱 I'm excited to continue learning and growing as a developer. Feel free to check out my projects, open an issue, or reach out if you have advice or collaboration opportunities!
 
 
 ## 🌐 Socials:
