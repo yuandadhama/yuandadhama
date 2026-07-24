@@ -1,6 +1,6 @@
 Hi There, I'm Dhama,
 
-I'm an Information Technology student interested in web development, backend systems, and how software operates beyond the user interface. Recently, I've been focused on building Delok, an observability platform for collecting, storing, and investigating application logs. Through this project, I've been learning about system design, authentication, API development, databases, log ingestion pipelines, and the challenges of building software that remains maintainable as it grows.
+Recently, I've been focused on building Delok, an observability platform for collecting, storing, and investigating application logs. Through this project, I've been learning about system design, authentication, API development, databases, log ingestion pipelines, and the challenges of building software that remains maintainable as it grows.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/definitely_not_damy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuandhamap@gmail.com) 
