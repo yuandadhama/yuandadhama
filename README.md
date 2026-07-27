@@ -10,4 +10,5 @@ Hi there, I'm Dhama.<br><br>Recently, I've been focused on building Delok, a Saa
 ![](https://github-readme-stats.shion.dev/api?username=yuandadhama&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=yuandadhama&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuandadhama&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yuandadhama&theme=shadow_blue&hide_border=false)<br/>
 
