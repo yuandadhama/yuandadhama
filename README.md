@@ -1,4 +1,6 @@
-Hi there, I'm Dhama.<br><br>Recently, I've been focused on building Delok, a SaaS observability platform for collecting, storing, and investigating application logs. Through this project, I'm designing scalable backend systems, implementing authentication, building APIs, managing databases, developing log ingestion pipelines, and making architectural decisions to keep the platform reliable, scalable, and maintainable as it grows.
+I'm Yuan.
+
+I've been focused on building Delok, a SaaS observability platform for collecting, storing, and investigating application logs. Through this project, I'm designing scalable backend systems, implementing authentication, building APIs, managing databases, developing log ingestion pipelines, and making architectural decisions to keep the platform reliable, scalable, and maintainable as it grows.
 
 
 ## 🌐 Socials:
