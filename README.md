@@ -8,5 +8,5 @@ I've been focused on building Delok, a SaaS observability platform for collectin
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=yuandadhama&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yuandadhama)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yuandadhama&type=json&include_all_commits=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuandadhama&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
